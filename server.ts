@@ -55,7 +55,7 @@ Product details:
 - Title: ${title}
 - Category: ${category || 'Tech / Collectibles'}
 - Condition: ${condition || 'Like New'}
-- Asking Price: ${price ? `$${price}` : 'Market competitive'}
+- Asking Price: ${price ? `₹${price}` : 'Market competitive'}
 - Key Notes / Specs: ${features || 'Standard specs, carefully inspected, fully authentic'}
 
 Requirements:
